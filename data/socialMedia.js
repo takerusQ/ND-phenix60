@@ -6,7 +6,7 @@
 export const socialMedia = {
   //instagram: "https://www.instagram.com/developer_satoru_akiyama/",
   //facebook: "https://www.facebook.com/satoruakiyama1998",
-  github: "https://github.com/takerusQ/nii_testQ/commit/91d21cee5e37982d09f5aa72f6683adadb969a02",
+  github: "https://github.com/takerusQ/ND-phenix60",
   homepage: "https://www.youtube.com/channel/UCfhA7A-8b6t-qrbZEhiyLKw",
   youtube: "https://www.youtube.com/channel/UCfhA7A-8b6t-qrbZEhiyLKw",
   // You can add like this
