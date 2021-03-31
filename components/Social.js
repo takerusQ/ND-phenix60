@@ -5,7 +5,7 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import HomeIcon from "@material-ui/icons/Home";
-import YouTubeIcon from "@material-ui/icons/Youube";
+import YouTubeIcon from "@material-ui/icons/YouTube";
 // if you wanto to add twitter
 import TwitterIcon from '@material-ui/icons/Twitter';
 
