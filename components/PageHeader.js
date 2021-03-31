@@ -23,7 +23,7 @@ const PageHeader = () => {
     <Grid container direction="column" className={classes.container}>
       <Grid item>
         <Typography variant="h1" gutterBottom align="center">
-          Blog with Next.js and Contentful
+          ND60 everdellers
         </Typography>
       </Grid>
 
@@ -36,7 +36,7 @@ const PageHeader = () => {
         >
           This is a statically generated blog example using Next.js and
           Contentful.
-          <br /> You can see the code&#8594;{" "}
+          <br />  special thanks(for coding this webcite)&#8594;{" "}
           <a
             target="_blank"
             rel="noreferrer noopener"
@@ -45,11 +45,11 @@ const PageHeader = () => {
           >
             here
           </a>
-          .<br /> How you make a blog&#8594;{" "}
+          .<br /> How you become No.1 everdeller&#8594;{" "}
           <a
             target="_blank"
             rel="noreferrer noopener"
-            href="https://satoruakiyama.com/blog/building-blog-with-nextjs-and-contentful-en"
+            href="https://www.youtube.com/watch?v=BzyLXvtA-II"
             className={classes.link}
           >
             English
@@ -58,17 +58,17 @@ const PageHeader = () => {
           <a
             target="_blank"
             rel="noreferrer noopener"
-            href="https://satoruakiyama.com/blog/building-blog-with-nextjs-and-contentful-ja"
+            href="https://everdell.herokuapp.com/"
             className={classes.link}
           >
             Japanese
           </a>
           .<br />
-          Or I can make your blog. Contact me from{" "}
+          INN keeper{" "}
           <a
             target="_blank"
             rel="noreferrer noopener"
-            href="https://satoruakiyama.com/contact"
+            href="https://www.youtube.com/watch?v=X0pG5soPkaY"
             className={classes.link}
           >
             here

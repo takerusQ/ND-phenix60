@@ -28,15 +28,15 @@ const useStyles = makeStyles((theme) => ({
 const About = () => {
   const classes = useStyles();
   // use ure name
-  const name = '"Your Name"';
+  const name = 'ND phenix60';
   // use your picture
   const avatar =
-    "https://images.ctfassets.net/atxm25972ze9/7y6t7fqxDPqJ21ZECdUV9D/0ace08faabfb401be8e89d689b04ae98/adult-1868750__340.jpg?h=250";
+    "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/27301514/27301514.original/r1280x720l?key=3eb7f9e26fd53b566f3b2eda0a99850631d3b82ae6258208cc406e01563068b0";
   return (
     <Layout
       // type your page title and page description.
-      title=" About | Blog with Next.js and Contentful"
-      description="This is a Blog Demo with Next.js and Contentful. You can see the code in github. And you can use the code to make your own blog. "
+      title=" About | The Legend of ND Phenix"
+      description="野球やれよ"
     >
       <Container maxWidth="md">
         <Grid container direction="column" spacing={8}>

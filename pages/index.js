@@ -16,8 +16,8 @@ export default function Index({ posts }) {
     <>
       <Layout
         // type your page title and page description.
-        title="Blog with Next.js and Contentful"
-        description="This is a Blog Demo with Next.js and Contentful. You can see the code in github. And you can use the code to make your own blog. "
+        title="The Legend of ND Phenix"
+        description="Blog Demo with Next.js and Contentful."
       >
         <Container maxWidth="lg">
           {/* you can delete this component or you can use this for your page header. */}
